@@ -112,10 +112,10 @@ weight  = 3
 name    = "portfolio"
 url     = "portfolio"
 weight  = 4
-[[menu.nav]]
-name    = "blog"
-url     = "blog"
-weight  = 5
+# [[menu.nav]]
+# name    = "blog"
+# url     = "blog"
+# weight  = 5
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
