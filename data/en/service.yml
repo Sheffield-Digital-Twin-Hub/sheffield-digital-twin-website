@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : DIGITAL TWIN PROJECTS
 title     : Our Projects.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  : At the University of Sheffield we are seeing first hand the urgent need to respond to research challenges that have an important societal impact. We believe that digital twin technology will have a significant impact on these societal challenges for the UK and wider world.
 item      :
   - icon  : tf-ion-android-sync
     title : Control
