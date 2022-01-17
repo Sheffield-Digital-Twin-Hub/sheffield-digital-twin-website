@@ -7,19 +7,19 @@ tabItem   :
     title     : Our Philosophy
     heading   : We Create Designs and technology
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. > <br> Lorem ipsum dolor sit 
     image     : images/company/company-image.jpg
 
   - id        : mission
     title     : Mission
     heading   : Our Mission
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
     image     : images/company/company-image-2.jpg
 
   - id        : vision
     title     : Vision
     heading   : Our Vision
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat voluptate molestias, quaerat quo natus dolor harum voluptatibus modi dicta ducimus. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quae officia earum dolore est quaerat cupiditate voluptatibus id, magni alias veniam voluptate, libero explicabo, distinctio atque!
+      We believe that digital twin technology will be a key part of the solutions for; green energy (e.g. via advanced asset management of offshore wind farms); healthcare (e.g. via personalised medicine); smart cities (e.g. by smart management of energy consumption); more efficient manufacturing (e.g by reducing costs and increasing time efficiency) to name just a few key applications. The Digital Twin Research Hub @Sheffield brings together key research teams to deliver this vision. 
     image     : images/company/company-image-3.jpg
