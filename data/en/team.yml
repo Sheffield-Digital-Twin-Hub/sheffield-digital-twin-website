@@ -1,14 +1,14 @@
 enable  : true
 topTitle: TEAM MEMBERS
 title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: Bringing together industry challenges and academic curiosity through collaboration.
 
 member  :
   - image         : images/team/amrc.png
     name          : AMRC
     designation   : Manufacturing
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      The Advanced Manufaturing Research Centre is a highly-influential regional hub and UK centre of excellence for manufacturing research.
     facebookURL   : https://www.facebook.com/
     twitterURL    : https://twitter.com/
     webURL        : https://sheffield.ac.uk/
@@ -18,7 +18,7 @@ member  :
     name          : DRG
     designation   : Dynamics
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      The Dynamics Research Group conducts research into vibrations and teh dynamics of structures.
     facebookURL   : https://www.facebook.com/
     twitterURL    : https://twitter.com/
     gplusURL      : https://plus.google.com/
@@ -28,7 +28,7 @@ member  :
     name          : ACSE
     designation   : Control Systems
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      The Department of Automatic Control and Systems Engineering is dedicated to automation and systems engineering.
     facebookURL   : https://www.facebook.com/
     twitterURL    : https://twitter.com/
     gplusURL      : https://plus.google.com/
