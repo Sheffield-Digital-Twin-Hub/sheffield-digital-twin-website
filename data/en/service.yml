@@ -6,23 +6,23 @@ item      :
   - icon  : tf-ion-android-sync
     title : Control
     list  :
-      - name : Brand Strategy
-      - name : Advertising / Campaigns
-      - name : Product Design
-      - name : Video / Photography
+      - name : Digitwin
+      - name : DTHIVE
+      - name : DyVirt
+      - name :
 
   - icon  : tf-ion-ios-analytics-outline
     title : Dynamics
     list  :
-      - name : Web Design
-      - name : E- Commerce Site Design
-      - name : App Development
-      - name : Mobile UI Design
+      - name : DAFNI
+      - name : URBAN FLOWS OBSERVATORY 
+      - name : 
+      - name : 
 
   - icon  : tf-ion-ios-cog-outline
     title : Manufacturing
     list  :
-      - name : Game Development
-      - name : Game Design
-      - name : Social Media Marketing
-      - name : Mobile UI Design
+      - name : AMRC
+      - name : 
+      - name : 
+      - name : 
