@@ -1,20 +1,20 @@
 enable    : true
 topTitle   : LITTLE MORE BRIEF
 title     : About Us.
-subtitle  : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle  : We aim to bring together research teams at the Advanced Manufacturing Research Centre and University of Sheffield working on digital twin related research for high-value engineering applications
 tabItem   :
   - id        : philosophy
-    title     : Our Philosophy
+    title     : Innovation
     heading   : We Create Designs and technology
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. > <br> Lorem ipsum dolor sit 
+      Digital twins (DTs) are radically reshaping most aspects of modern technology. A key objective of a DT is that it can faithfully capture time-evolutionary behaviour of the physical twin 
     image     : images/company/company-image.jpg
 
   - id        : mission
     title     : Mission
     heading   : Our Mission
     content   : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+      We aim to bring together expert teams, and to act as a centre of excellence for research in digital twins for high-value engineering applications. 
     image     : images/company/company-image-2.jpg
 
   - id        : vision
