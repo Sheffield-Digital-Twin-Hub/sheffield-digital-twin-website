@@ -1,7 +1,7 @@
-enable  : false
+enable  : true
 topTitle: RECENT WORK
 title   : WORK SHOWCASE.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+subtitle: Digital Twin Projects
 
 filtermenu :
   - name      : Photography
@@ -17,26 +17,26 @@ filtermenu :
     category  : design
 
 item   :
-  - title : AirBnB Postcard
+  - title : DigiTwin
     image : images/portfolio/portfolio-1.jpg
     category  : photography
 
-  - title : D Design
+  - title : DyVirt
     image : images/portfolio/portfolio-2.jpg
     category  : ios, design
 
-  - title : Xbox 360
+  - title : DTHIVE
     image : images/portfolio/portfolio-3.jpg
     category  : photography, development
 
-  - title : Ballon Card
+  - title : DAFNI
     image : images/portfolio/portfolio-4.jpg
     category  : ios
 
-  - title : Ready Toons
+  - title : Urban Flows Observatory
     image : images/portfolio/portfolio-5.jpg
     category  : design
 
-  - title : Illustration
+  - title : AMRC
     image : images/portfolio/portfolio-6.jpg
     category  : development
