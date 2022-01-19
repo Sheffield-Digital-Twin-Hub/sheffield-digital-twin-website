@@ -106,10 +106,10 @@ weight  = 2
 name    = "service"
 url     = "service"
 weight  = 3
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 4
+#[[menu.nav]]
+#name    = "portfolio"
+#url     = "portfolio"
+#weight  = 4
 # [[menu.nav]]
 # name    = "blog"
 # url     = "blog"
