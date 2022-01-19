@@ -49,7 +49,7 @@ heading = "Digital Twin Research @Sheffield"
 description = "Welcome to the Digital Twin Research Hub, bringing together research teams at the Advanced Manufacturing Research Centre and University of Sheffield working on digital twin related research for high-value engineering applications."
 button  = true
 btnText = "Our Projects"
-btnURL  = "portfolio"
+btnURL  = "about"
 videoThumb = ""
 videoURL   = ""
 bannerImage = "images/banner_wide.jpg"
@@ -106,10 +106,10 @@ weight  = 2
 name    = "projects"
 url     = "service"
 weight  = 3
-[[menu.nav]]
-name    = "portfolio"
-url     = "portfolio"
-weight  = 4
+#[[menu.nav]]
+#name    = "portfolio"
+#url     = "portfolio"
+#weight  = 4
 # [[menu.nav]]
 # name    = "blog"
 # url     = "blog"
