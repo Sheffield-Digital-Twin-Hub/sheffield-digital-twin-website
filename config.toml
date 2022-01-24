@@ -103,7 +103,7 @@ name    = "about"
 url     = "about"
 weight  = 2
 [[menu.nav]]
-name    = "service"
+name    = "projects"
 url     = "service"
 weight  = 3
 #[[menu.nav]]
