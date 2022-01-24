@@ -7,7 +7,6 @@ item      :
     title : Control
     list  :
       - name : Digitwin
-      URL= "digitwin.ac.uk"
       - name : DTHIVE
       - name : DyVirt
       - name :
@@ -17,7 +16,6 @@ item      :
     list  :
       - name : DAFNI
       - name : URBAN FLOWS OBSERVATORY 
-      
       - name : 
       - name : 
 
@@ -25,8 +23,6 @@ item      :
     title : Manufacturing
     list  :
       - name : AMRC
-      
-      
       - name : 
       - name : 
       - name : 
