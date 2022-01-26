@@ -104,7 +104,7 @@ url     = "about"
 weight  = 2
 [[menu.nav]]
 name    = "projects"
-url     = "projects"
+url     = "service"
 weight  = 3
 #[[menu.nav]]
 #name    = "portfolio"
