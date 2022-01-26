@@ -117,7 +117,7 @@ weight  = 3
 [[menu.nav]]
 name    = "contact"
 url     = "contact"
-weight  = 6
+weight  = 4
 
 # Footer Service Menu
 #[[menu.service]]
