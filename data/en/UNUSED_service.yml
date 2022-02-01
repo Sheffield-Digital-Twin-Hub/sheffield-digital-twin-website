@@ -1,0 +1,28 @@
+enable    : true
+topTitle  : DIGITAL TWIN PROJECTS
+title     : Our Projects.
+subtitle  : At the [University of Sheffield](https://sheffield.ac.uk) we are seeing first hand the urgent need to respond to research challenges that have an important societal impact. We believe that digital twin technology will have a significant impact on these societal challenges for the UK and wider world.
+item      :
+  - icon  : tf-ion-android-sync
+    title : Control
+    list  :
+      - name : Digitwin
+      - name : DTHIVE
+      - name : DyVirt
+      - name :
+
+  - icon  : tf-ion-ios-analytics-outline
+    title : Dynamics
+    list  :
+      - name : DAFNI
+      - name :  
+      - name : URBAN FLOWS OBSERVATORY 
+      - name : .
+
+  - icon  : tf-ion-ios-cog-outline
+    title : Manufacturing
+    list  :
+      - name : AMRC
+      - name :  
+      - name :  .
+      - name :  .
