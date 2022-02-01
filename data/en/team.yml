@@ -19,10 +19,11 @@ member  :
     designation   : Dynamics
     description   : >
       The Dynamics Research Group conducts research into vibrations and the dynamics of structures.
-    #facebookURL   : https://www.facebook.com/
+   # facebookURL   : https://www.facebook.com/
    # twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+   # gplusURL      : https://plus.google.com/
+   # dribbbleURL   : https://dribbble.com/
+    webURL        : https://drg.ac.uk
 
   - image         : images/team/acse.png
     name          : ACSE
@@ -31,8 +32,8 @@ member  :
       The Department of Automatic Control and Systems Engineering is dedicated to automation and systems engineering.
     facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
     twitterURL    : https://twitter.com/@ShefACSE
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+   # gplusURL      : https://plus.google.com/
+   # dribbbleURL   : https://dribbble.com/
 
   # - image         : images/team/member-4.jpg
   #   name          : Person 4
