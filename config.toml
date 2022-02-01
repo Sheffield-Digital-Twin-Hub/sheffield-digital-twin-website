@@ -63,9 +63,9 @@ description = "We believe that digital twin technology will be a key part of the
 # Blog Section On Homepage
 [Languages.en.params.blog]
 enable  = false
-topTitle= "OUR LATEST WORK"
-title   = "Blog."
-subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
+topTitle= "Useful Links"
+title   = "Other Information."
+subtitle= "Information related to digital twins"
 
 # Contact Section
 [Languages.en.params.contact]
