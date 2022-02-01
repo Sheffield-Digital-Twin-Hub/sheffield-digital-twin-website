@@ -1285,11 +1285,11 @@ a:focus, a:hover {
 }
 
 .service-list a:link{
-  color: white;
+  color: var(--primary-0);
 }
 
 .service-list a:visited{
-  color: white;
+  color: var(--primary-1);
 }
 
 .service-list a:hover{
@@ -1297,6 +1297,22 @@ a:focus, a:hover {
 }
 
 .service-list a:active{
+  color: var(--primary-0);
+}
+
+.service-list .block a:link{
+  color: white;
+}
+
+.service-list .block a:visited{
+  color: white;
+}
+
+.service-list .block a:hover{
+  color: var(--tertiary-0);
+}
+
+.service-list .block a:active{
   color: white;
 }
 
