@@ -1284,6 +1284,22 @@ a:focus, a:hover {
   transition: all 0.3s ease 0s;
 }
 
+.service-list a:link{
+  color: white;
+}
+
+.service-list a:visited{
+  color: white;
+}
+
+.service-list a:hover{
+  color: var(--tertiary-0);
+}
+
+.service-list a:active{
+  color: white;
+}
+
 .service-list .block {
   background: var(--primary-0);
   color: #fff;

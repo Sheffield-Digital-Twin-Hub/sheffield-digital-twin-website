@@ -6,23 +6,18 @@ item      :
   - icon  : tf-ion-android-sync
     title : Control
     list  :
-      - name : Digitwin
-      - name : DTHIVE
-      - name : DyVirt
-      - name :
+      - name : "[Digitwin](https://digitwin.ac.uk/)"
+      - name : "DTHIVE"
+      - name : "[DyVirt](https://www.dyvirt-etn.com/)"
+
 
   - icon  : tf-ion-ios-analytics-outline
     title : Dynamics
     list  :
       - name : DAFNI
-      - name :  
       - name : URBAN FLOWS OBSERVATORY 
-      - name : .
 
   - icon  : tf-ion-ios-cog-outline
     title : Manufacturing
     list  :
       - name : AMRC
-      - name :  
-      - name :  .
-      - name :  .
