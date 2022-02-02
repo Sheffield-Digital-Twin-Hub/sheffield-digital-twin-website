@@ -16,4 +16,21 @@ papers    :
     issn     : 2332-9017
     doi      : https://doi.org/10.1115/1.4046739
     pdf      : https://eprints.whiterose.ac.uk/158771/8/RISK-19-1039%20with%20cover%20form.pdf
-
+enable    : true
+topTitle  : OUTPUTS
+title     : Digital Twin Related Outputs
+subtitle  : Here are a selection of featured digital twin related outputs
+papers    :
+  - title    : "Digital twins: State-of-the-art future directions for modelling and simulation in engineering dynamics applications."
+    authors  :
+      - Wagg, D.
+      - Worden, K.
+      - Barthorpe, R.J.
+      - Gardner, P.A.
+    journal  : ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B. Mechanical Engineering
+    year     : 2020
+    volume   : 6(3)
+    pages    : 030901
+    issn     : 2332-9017
+    doi      : https://doi.org/10.1115/1.4046739
+    pdf      : https://eprints.whiterose.ac.uk/158771/8/RISK-19-1039%20with%20cover%20form.pdf
