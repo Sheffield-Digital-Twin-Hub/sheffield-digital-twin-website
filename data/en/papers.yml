@@ -48,3 +48,20 @@ papers    :
     doi      : https://doi.org/10.3389/frobt.2021.758099    
     pdf      : https://www.frontiersin.org/articles/10.3389/frobt.2021.758099/full
     
+      - title    : "AMRC Report: Untangling the Requirements of a digital twin."
+    authors  :
+      - Jonathan Eyre
+      - Sam Hyde
+      - Daniel Walker
+      - Seun Ojo
+      - Oliver Hayes
+      - Robin Hartley
+      - Rab Scott 
+      - Jonathan Bray
+    journal  : 
+    year     : 2020
+    volume   : 
+    pages    : 
+    issn     : 
+    doi      : https://www.amrc.co.uk/pages/digital-twin-report
+    pdf      : https://www.amrc.co.uk/files/document/406/1605271035_1604658922_AMRC_Digital_Twin_AW.pdf
