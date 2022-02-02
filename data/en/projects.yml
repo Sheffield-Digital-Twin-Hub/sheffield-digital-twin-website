@@ -6,16 +6,16 @@ item      :
   - icon  : tf-ion-android-sync
     title : Control
     list  :
-      - name : "[Digitwin](https://digitwin.ac.uk/)"
-      - name : "DTHIVE"
+      - name : "[Digitwin: Digital Twins for Improved Dynamic Design ](https://digitwin.ac.uk/)"
+      - name : "DTHIVE: Digital Twins for High-value Engineering Applications"
       - name : "[DyVirt](https://www.dyvirt-etn.com/)"
 
 
   - icon  : tf-ion-ios-analytics-outline
     title : Dynamics
     list  :
-      - name : DAFNI
-      - name : URBAN FLOWS OBSERVATORY 
+      - name : "[DAFNI Data & Analytics Facility for National Infrastructure to Advance UK Infrastructure Research](https://dafni.ac.uk/)"
+      - name : "[URBAN FLOWS OBSERVATORY](https://urbanflows.ac.uk/)"
 
   - icon  : tf-ion-ios-cog-outline
     title : Manufacturing
