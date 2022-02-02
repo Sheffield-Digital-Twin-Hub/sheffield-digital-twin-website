@@ -135,18 +135,18 @@ weight  = 4
 
 # Footer Quick links Menu
 [[menu.quicklink]]
-name    = "partners"
+name    = "About"
 url     = "about"
 weight  = 1
 [[menu.quicklink]]
-name    = "about"
-url     = "about"
+name    = "Information"
+url     = "information"
 weight  = 2
 [[menu.quicklink]]
-name    = "faqs"
-url     = "about"
+name    = "Projects"
+url     = "projects"
 weight  = 3
 [[menu.quicklink]]
-name    = "badges"
-url     = "about"
+name    = "Contact"
+url     = "contact"
 weight  = 4
