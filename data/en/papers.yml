@@ -30,3 +30,52 @@ papers    :
     issn     : 
     doi      : https://doi.org/10.1007/s00170-021-07867-w
     pdf      : https://link.springer.com/content/pdf/10.1007/s00170-021-07867-w.pdf
+    
+  - title    : "A Modular Digital Twinning Framework for Safety Assurance of Collaborative Robotics."
+    authors  :
+      - J.A. Douthwaite
+      - B. Lesage
+      - M. Gleirscher
+      - R. Calinescu
+      - J. M. Aitken
+      - R. Alexander  
+      - J. Law 
+    journal  : Frontiers in Robotics and AI
+    year     : 2021
+    volume   : 8
+    pages    : 
+    issn     : 2296-9144  
+    doi      : https://doi.org/10.3389/frobt.2021.758099    
+    pdf      : https://www.frontiersin.org/articles/10.3389/frobt.2021.758099/full
+    
+      - title    : "AMRC Report: Untangling the Requirements of a digital twin."
+    authors  :
+      - Jonathan Eyre
+      - Sam Hyde
+      - Daniel Walker
+      - Seun Ojo
+      - Oliver Hayes
+      - Robin Hartley
+      - Rab Scott 
+      - Jonathan Bray
+    journal  : 
+    year     : 2020
+    volume   : 
+    pages    : 
+    issn     : 
+    doi      : https://www.amrc.co.uk/pages/digital-twin-report
+    pdf      : https://www.amrc.co.uk/files/document/406/1605271035_1604658922_AMRC_Digital_Twin_AW.pdf
+    
+     - title    : "Data-centric engineering - The Alan Turing Institute."
+    authors  :
+      - 
+      - 
+      - 
+      - 
+    journal  : 
+    year     : 
+    volume   : 
+    pages    : 
+    issn     : 
+    doi      : https://www.turing.ac.uk/research/research-programmes/data-centric-engineering 
+    pdf      : 
