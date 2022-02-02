@@ -47,8 +47,8 @@ papers    :
     issn     : 2296-9144  
     doi      : https://doi.org/10.3389/frobt.2021.758099    
     pdf      : https://www.frontiersin.org/articles/10.3389/frobt.2021.758099/full
-    
-      - title    : "AMRC Report: Untangling the Requirements of a digital twin."
+   
+  - title    : "AMRC Report: Untangling the Requirements of a digital twin."
     authors  :
       - Jonathan Eyre
       - Sam Hyde
