@@ -1336,6 +1336,48 @@ a:focus, a:hover {
   color: #f9f9f9;
 }
 
+.service-list .block-paper a:link{
+  color: var(--tertiary-0);
+  font-weight: bolder;
+}
+
+.service-list .block-paper a:visited{
+  color: var(--tertiary-0);
+  font-weight: bolder;
+}
+
+.service-list .block-paper a:hover{
+  color: var(--secondary-0);
+  font-weight: bolder;
+}
+
+.service-list .block-paper a:active{
+  color: white;
+  font-weight: bolder;
+}
+
+.service-list .block-paper {
+  background: var(--primary-0);
+  color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+.service-list .block-paper i {
+  font-size: 30px;
+}
+
+.service-list .block-paper h3 {
+  font-size: 22px;
+  margin: 10px 0;
+}
+
+.service-list .block-paper ul li {
+  margin-bottom: 6px;
+  color: #f9f9f9;
+}
+
+
 .client-service-list li{
   font-size: 20px;
 }
