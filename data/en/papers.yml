@@ -16,7 +16,7 @@ papers    :
     issn     : 2332-9017
     doi      : https://doi.org/10.1115/1.4046739
     pdf      : https://eprints.whiterose.ac.uk/158771/8/RISK-19-1039%20with%20cover%20form.pdf
-papers    :
+
 - title    : "Machining Digital Twin using real-time model-based simulations and lookahead function for closed loop machining control."
     authors  :
       - Rob Ward
