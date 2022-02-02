@@ -67,8 +67,8 @@ papers    :
     pdf      : https://www.amrc.co.uk/files/document/406/1605271035_1604658922_AMRC_Digital_Twin_AW.pdf
 
   - title    : "Data-centric engineering - The Alan Turing Institute."
-    authors  :
-  - 
+      authors  :
+      - 
     journal  : 
     year     : 
     volume   : 
