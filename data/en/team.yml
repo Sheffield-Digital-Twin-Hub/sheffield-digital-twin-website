@@ -35,7 +35,7 @@ member  :
    # gplusURL      : https://plus.google.com/
    # dribbbleURL   : https://dribbble.com/
 
-   - image         : images/team/member-4.jpg
+  # - image         : images/team/member-4.jpg
      name          : Sheffield Robotics
      designation   : CSI Robot
      description   : >
