@@ -35,11 +35,11 @@ member  :
    # gplusURL      : https://plus.google.com/
    # dribbbleURL   : https://dribbble.com/
 
-  # - image         : images/team/member-4.jpg
-  #   name          : Person 4
-  #   designation   : Job Role
-  #   description   : >
-  #     Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+   - image         : images/team/member-4.jpg
+     name          : Sheffield Robotics
+     designation   : CSI Robot
+     description   : >
+       CSI: Cobot Confident Safety Integration for Collaborative Robots
   #   facebookURL   : https://www.facebook.com/
   #   twitterURL    : https://twitter.com/
   #   gplusURL      : https://plus.google.com/
