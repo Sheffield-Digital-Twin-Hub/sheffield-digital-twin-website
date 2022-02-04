@@ -1,10 +1,10 @@
-enable    : false
-title     : We care about our work
+enable    : true
+title     : Who we are
 description: >
-  This is where we could talk about who we have worked with, etc
+  Bringing together real-world industry challenges and academic curiosity through collaboration
 image     : images/about/about-1.jpg
 servicelist:
-  - name    : Creative Designers
+  - name    : " [Professor David Wagg](https://www.sheffield.ac.uk/mecheng/people/academic/david-wagg)"
   - name    : Genius Developers
   - name    : Growth Hackers
   - name    : Marketing Masterminds
