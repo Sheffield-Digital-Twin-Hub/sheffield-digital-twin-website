@@ -6,9 +6,9 @@ item      :
   - icon  : tf-ion-android-sync
     title : Control
     list  :
-      - name : "[Digitwin: Digital Twins for Improved Dynamic Design ](https://digitwin.ac.uk/)"
+      - name : "[Digitwin: Digital Twins for Improved Dynamic Design](https://digitwin.ac.uk/)"
       - name : "DTHIVE: Digital Twins for High-value Engineering Applications"
-      - name : "[DyVirt - Dynamic virtualisation: modelling performance of engineering structures](https://www.dyvirt-etn.com/)"
+      - name : "[DyVirt: Dynamic virtualisation: modelling performance of engineering structures](https://www.dyvirt-etn.com/)"
 
 
   - icon  : tf-ion-ios-analytics-outline
@@ -20,4 +20,4 @@ item      :
   - icon  : tf-ion-ios-cog-outline
     title : Manufacturing
     list  :
-      - name : [AMRC - Advanced Manufacturing Research Centre](https://www.amrc.co.uk/)
+      - name : "[AMRC: Advanced Manufacturing Research Centre](https://www.amrc.co.uk/)"
