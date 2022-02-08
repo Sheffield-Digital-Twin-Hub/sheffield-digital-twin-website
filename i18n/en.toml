@@ -16,6 +16,8 @@ other = "Our Team"
 other = "Contact"
 [hive]
 other = "DT Hive"
+[all-projects]
+other = "All Projects"
 
 [graphicdesign]
 other = "Graphic Design"

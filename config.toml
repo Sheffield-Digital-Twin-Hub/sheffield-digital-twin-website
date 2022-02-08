@@ -108,9 +108,14 @@ url     = "projects"
 weight  = 3
 [[menu.nav]]
 parent  = "projects"
+name    = "all-projects"
+url     = "projects"
+weight  = 1
+[[menu.nav]]
+parent  = "projects"
 name    = "hive"
 url     = "hive"
-weight  = 3
+weight  = 2
 [[menu.nav]]
 name    = "papers"
 url     = "papers"
