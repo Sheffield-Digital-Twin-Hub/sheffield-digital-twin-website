@@ -28,3 +28,13 @@ member  :
       The Department of Automatic Control and Systems Engineering is dedicated to automation and systems engineering.
     facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
     twitterURL    : https://twitter.com/@ShefACSE
+
+  - image         : images/members/csi.png
+    name          : Sheffield Robotics
+    designation   : Manufacturing
+    description   : >
+      CSI: Cobot Confident Safety Integration for Collaborative Robots.
+   #facebookURL   : https://www.facebook.com/TheAMRC
+   #twitterURL    : https://twitter.com/@TheAMRC
+    webURL        : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
+    
