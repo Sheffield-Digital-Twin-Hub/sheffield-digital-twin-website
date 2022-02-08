@@ -1,0 +1,30 @@
+enable  : true
+topTitle: MEMBERS
+title   : Our Members.
+subtitle: Bringing together industry challenges and academic curiosity through collaboration.
+
+member  :
+  - image         : images/members/amrc.png
+    name          : AMRC
+    designation   : Manufacturing
+    description   : >
+      The Advanced Manufaturing Research Centre is a highly-influential regional hub and UK centre of excellence for manufacturing research.
+    facebookURL   : https://www.facebook.com/TheAMRC
+    twitterURL    : https://twitter.com/@TheAMRC
+    webURL        : https://sheffield.ac.uk/
+    
+
+  - image         : images/members/drg.png
+    name          : DRG
+    designation   : Dynamics
+    description   : >
+      The Dynamics Research Group conducts research into vibrations and the dynamics of structures.
+    webURL        : https://drg.ac.uk
+
+  - image         : images/members/acse.png
+    name          : ACSE
+    designation   : Control Systems
+    description   : >
+      The Department of Automatic Control and Systems Engineering is dedicated to automation and systems engineering.
+    facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
+    twitterURL    : https://twitter.com/@ShefACSE
