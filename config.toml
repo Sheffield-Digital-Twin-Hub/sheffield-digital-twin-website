@@ -107,8 +107,8 @@ name    = "projects"
 url     = "projects"
 weight  = 3
 [[menu.nav]]
-name    = "information"
-url     = "information"
+name    = "papers"
+url     = "papers"
 weight  = 3
 [[menu.nav]]
 name    = "team"
