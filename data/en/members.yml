@@ -29,11 +29,12 @@ member  :
     facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
     twitterURL    : https://twitter.com/@ShefACSE
 
-  - image         : images/members/acse.png
+  - image         : images/members/amrc.png
     name          : Sheffield Robotics
-    designation   : Control Systems
+    designation   : Manufacturing
     description   : >
       CSI: Cobot Confident Safety Integration for Collaborative Robots.
-      webURL      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
-    #facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
-    #twitterURL    : https://twitter.com/@ShefACSE
+   #facebookURL   : https://www.facebook.com/TheAMRC
+   #twitterURL    : https://twitter.com/@TheAMRC
+    webURL        : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
+    
