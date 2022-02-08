@@ -10,6 +10,8 @@ other = "Service"
 other = "Portfolio"
 [blog]
 other = "Blog"
+[team]
+other = "Our Team"
 [contact]
 other = "Contact"
 

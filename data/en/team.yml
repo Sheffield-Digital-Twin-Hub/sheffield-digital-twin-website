@@ -1,0 +1,22 @@
+enable  : true
+topTitle: TEAM MEMBERS
+title   : Our Team.
+subtitle: This is our team...
+
+member  :
+  - image         : images/team/dwagg.jpg
+    name          : David Wagg
+    designation   : Professor
+    description   : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id mauris libero. Aliquam pharetra sed eros non dapibus. Vivamus eget odio nisi. Donec fermentum quis purus eu viverra. Fusce consectetur ex eget diam consectetur, id ullamcorper nisl ullamcorper. Vivamus eget sem eget orci faucibus egestas et sit amet enim. Proin malesuada libero porta ornare accumsan. Maecenas tellus est, volutpat quis volutpat quis, ornare eget massa. Duis a pulvinar sem. Phasellus ac ligula magna. Etiam vitae massa in risus bibendum sollicitudin vel venenatis enim. Morbi mi elit, facilisis non risus a, rutrum sagittis ante. Vivamus feugiat vehicula velit, quis mollis enim finibus in.
+    # twitterURL    : https://twitter.com/@TheAMRC
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/david-wagg
+    
+
+  - image         : images/team/trogers.jpg
+    name          : Timothy Rogers
+    designation   : Lecturer
+    description   : >
+      Nam vitae augue vitae ipsum porttitor sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tristique urna aliquam, placerat dui a, cursus enim. Etiam vitae tortor at est volutpat ornare lacinia a massa. Sed interdum, nulla eget auctor imperdiet, nulla eros efficitur mauris, ac vulputate neque dolor et lorem. Nam vehicula ipsum sed magna vulputate, et egestas metus accumsan. Etiam nec nisl sagittis, tincidunt nunc nec, tincidunt sem. Nunc feugiat sodales dolor, eget tristique enim ornare in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/timothy-rogers
+
