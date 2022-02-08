@@ -30,9 +30,10 @@ member  :
     twitterURL    : https://twitter.com/@ShefACSE
 
   - image         : images/members/acse.png
-    name          : ACSE
+    name          : Sheffield Robotics
     designation   : Control Systems
     description   : >
-      The Department of Automatic Control and Systems Engineering is dedicated to automation and systems engineering.
-    facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
-    twitterURL    : https://twitter.com/@ShefACSE
+      CSI: Cobot Confident Safety Integration for Collaborative Robots.
+      webURL      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
+    #facebookURL   : https://www.facebook.com/AutomaticControlAndSystemsEngineering
+    #twitterURL    : https://twitter.com/@ShefACSE
