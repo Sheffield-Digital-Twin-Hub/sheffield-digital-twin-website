@@ -1,0 +1,14 @@
+enable    : true
+topTitle  : DTHIVE
+title     : Our Digital Twin Hive.
+subtitle  : At the [University of Sheffield](https://sheffield.ac.uk) we are seeing first hand the urgent need to respond to research challenges that have an important societal impact. We believe that digital twin technology will have a significant impact on these societal challenges for the UK and wider world.
+item      :
+  - image  : images/team/dwagg.jpg
+    title : Work Plan 1
+    description   : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id mauris libero. Aliquam pharetra sed eros non dapibus. Vivamus eget odio nisi. Donec fermentum quis purus eu viverra. Fusce consectetur ex eget diam consectetur, id ullamcorper nisl ullamcorper. Vivamus eget sem eget orci faucibus egestas et sit amet enim. Proin malesuada libero porta ornare accumsan. Maecenas tellus est, volutpat quis volutpat quis, ornare eget massa. Duis a pulvinar sem. Phasellus ac ligula magna. Etiam vitae massa in risus bibendum sollicitudin vel venenatis enim. Morbi mi elit, facilisis non risus a, rutrum sagittis ante. Vivamus feugiat vehicula velit, quis mollis enim finibus in.
+
+  - image  : images/team/dwagg.jpg
+    title : Work Plan 2
+    description   : >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id mauris libero. Aliquam pharetra sed eros non dapibus. Vivamus eget odio nisi. Donec fermentum quis purus eu viverra. Fusce consectetur ex eget diam consectetur, id ullamcorper nisl ullamcorper. Vivamus eget sem eget orci faucibus egestas et sit amet enim. Proin malesuada libero porta ornare accumsan. Maecenas tellus est, volutpat quis volutpat quis, ornare eget massa. Duis a pulvinar sem. Phasellus ac ligula magna. Etiam vitae massa in risus bibendum sollicitudin vel venenatis enim. Morbi mi elit, facilisis non risus a, rutrum sagittis ante. Vivamus feugiat vehicula velit, quis mollis enim finibus in.
