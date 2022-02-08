@@ -11,7 +11,7 @@ item      :
       - name : "[DyVirt: Dynamic virtualisation: modelling performance of engineering structures](https://www.dyvirt-etn.com/)"
 
 
-  - icon  : tf-ion-android-sync  tf-ion-ios-analytics-outline
+  - icon  : tf-ion-android-sync
     title : Control
     list  :
       - name : "[DAFNI Data & Analytics Facility for National Infrastructure to Advance UK Infrastructure Research](https://dafni.ac.uk/)"
