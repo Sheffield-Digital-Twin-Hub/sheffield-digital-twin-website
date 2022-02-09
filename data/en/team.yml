@@ -77,7 +77,7 @@ member  :
       Department of Computer Science
     webURL        : https://www.sheffield.ac.uk/dcs/people/academic/john-clark
     
-      - image         : images/team/James Law.jpg
+    #  - image         : images/team/James Law.jpg
     name          : Wil Ward
     designation   : Post doctoral Research Associate
     description   : >
@@ -99,7 +99,7 @@ member  :
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/daniel-coca
     
     
-          - image         : images/team/visakhan.jpg
+          - image         : images/team/visarkan.jpg
     name          : Visakan Kadirkamanathan
     designation   : Professor
     description   : >
