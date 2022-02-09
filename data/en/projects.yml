@@ -7,7 +7,7 @@ item      :
     title : Dynamics
     list  :
       - name : "[Digitwin: Digital Twins for Improved Dynamic Design](https://digitwin.ac.uk/)"
-      - name : "DTHIVE: Digital Twins for High-value Engineering Applications"
+      - name : "[DTHIVE: Digital Twins for High-value Engineering Applications](/hive)"
       - name : "[DyVirt: Dynamic virtualisation: modelling performance of engineering structures](https://www.dyvirt-etn.com/)"
 
 
