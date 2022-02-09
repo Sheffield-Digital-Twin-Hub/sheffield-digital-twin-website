@@ -88,3 +88,10 @@ member  :
     description   : >
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
+
+  - image         : images/team/profile.jpg
+    name          : Wil Ward
+    designation   : Post doctoral Research Associate
+    description   : >
+      Department of Civil Engineering
+    #webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
