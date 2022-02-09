@@ -1,7 +1,7 @@
 enable  : true
 topTitle: TEAM MEMBERS
 title   : Our Team.
-subtitle: This is our team...
+subtitle: Bringing together real-world industry challenges and academic curiosity through collaboration.
 
 member  :
   - image         : images/team/dwagg.jpg
@@ -20,3 +20,23 @@ member  :
       Nam vitae augue vitae ipsum porttitor sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tristique urna aliquam, placerat dui a, cursus enim. Etiam vitae tortor at est volutpat ornare lacinia a massa. Sed interdum, nulla eget auctor imperdiet, nulla eros efficitur mauris, ac vulputate neque dolor et lorem. Nam vehicula ipsum sed magna vulputate, et egestas metus accumsan. Etiam nec nisl sagittis, tincidunt nunc nec, tincidunt sem. Nunc feugiat sodales dolor, eget tristique enim ornare in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/timothy-rogers
 
+  - image         : images/team/trogers.jpg
+    name          : Keith Worden
+    designation   : Professor
+    description   : >
+      Nam vitae augue vitae ipsum porttitor sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tristique urna aliquam, placerat dui a, cursus enim. Etiam vitae tortor at est volutpat ornare lacinia a massa. Sed interdum, nulla eget auctor imperdiet, nulla eros efficitur mauris, ac vulputate neque dolor et lorem. Nam vehicula ipsum sed magna vulputate, et egestas metus accumsan. Etiam nec nisl sagittis, tincidunt nunc nec, tincidunt sem. Nunc feugiat sodales dolor, eget tristique enim ornare in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/keith-worden
+
+  - image         : images/team/trogers.jpg
+    name          : Lizzy Cross
+    designation   : Professor
+    description   : >
+      Nam vitae augue vitae ipsum porttitor sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tristique urna aliquam, placerat dui a, cursus enim. Etiam vitae tortor at est volutpat ornare lacinia a massa. Sed interdum, nulla eget auctor imperdiet, nulla eros efficitur mauris, ac vulputate neque dolor et lorem. Nam vehicula ipsum sed magna vulputate, et egestas metus accumsan. Etiam nec nisl sagittis, tincidunt nunc nec, tincidunt sem. Nunc feugiat sodales dolor, eget tristique enim ornare in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/elizabeth-cross
+
+  - image         : images/team/trogers.jpg
+    name          : Nikolaos Dervilis
+    designation   : Professor
+    description   : >
+      Nam vitae augue vitae ipsum porttitor sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque tristique urna aliquam, placerat dui a, cursus enim. Etiam vitae tortor at est volutpat ornare lacinia a massa. Sed interdum, nulla eget auctor imperdiet, nulla eros efficitur mauris, ac vulputate neque dolor et lorem. Nam vehicula ipsum sed magna vulputate, et egestas metus accumsan. Etiam nec nisl sagittis, tincidunt nunc nec, tincidunt sem. Nunc feugiat sodales dolor, eget tristique enim ornare in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
