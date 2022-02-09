@@ -40,9 +40,9 @@ member  :
       Department of Mechanical Engineering
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
-  - image         : images/team/Lizzy_Cross.jpg
+  - image         : images/team/profile.jpg
     name          : Jonathon Eyre
     designation   : Research Assistant
     description   : >
       AMRC
-    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
