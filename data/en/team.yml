@@ -52,14 +52,14 @@ member  :
     designation   : Professor
     description   : >
       AMRC
-    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+   # webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
   - image         : images/team/profile.jpg
     name          : Sabino Ayvar-Soberanis
     designation   : Post doctoral research associate
     description   : >
       AMRC
-    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
   - image         : images/team/James Law.jpg
     name          : James Law
@@ -80,7 +80,7 @@ member  :
     designation   : Post doctoral Research Associate
     description   : >
       Department of Civil Engineering
-    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
+   #webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
     
   - image         : images/team/Martin Mayfield.jpg
     name          : Martin Mayfield
