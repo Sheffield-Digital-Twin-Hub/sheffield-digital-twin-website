@@ -96,14 +96,14 @@ member  :
       Department of Civil Engineering
     #webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
     
-      - image         : images/team/profile.jpg
+  - image         : images/team/profile.jpg
     name          : Daniel Coca
     designation   : Professor
     description   : >
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/daniel-coca
     
-          - image         : images/team/profile.jpg
+  - image         : images/team/profile.jpg
     name          : Keith Jackson
     designation   : Professor
     description   : >
