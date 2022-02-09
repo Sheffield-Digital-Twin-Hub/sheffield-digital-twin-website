@@ -46,3 +46,24 @@ member  :
     description   : >
       AMRC
     #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+
+  - image         : images/team/Lizzy_Cross.jpg
+    name          : Kevin Kerrigan
+    designation   : Professor
+    description   : >
+      AMRC
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    
+  - image         : images/team/Lizzy_Cross.jpg
+    name          : Sabino Ayvar-Soberanis
+    designation   : Post doctoral research associate
+    description   : >
+      AMRC
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    
+  - image         : images/team/James Law.jpg
+    name          : James Law
+    designation   : Professor
+    description   : >
+      Department of Computer Science
+    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
