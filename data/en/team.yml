@@ -75,4 +75,17 @@ member  :
       Department of Computer Science
     webURL        : https://www.sheffield.ac.uk/dcs/people/academic/john-clark
     
- 
+ - image         : images/team/Wil Ward.jpeg
+    name          : Wil Ward
+    designation   : Post doctoral Research Associate
+    description   : >
+      Department of Civil Engineering
+   #webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
+    
+  - image         : images/team/Martin Mayfield.jpg
+    name          : Martin Mayfield
+    designation   : Professor
+    description   : >
+      Department of Civil Engineering
+    webURL        : https://www.sheffield.ac.uk/civil/people/academic/martin-mayfield-tulip
+
