@@ -11,7 +11,6 @@ member  :
       Department of Mechanical Engineering
     # twitterURL    : https://twitter.com/@TheAMRC
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/david-wagg
-    
 
   - image         : images/team/trogers.jpg
     name          : Timothy Rogers
@@ -41,27 +40,26 @@ member  :
       Department of Mechanical Engineering
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
-    
- # - image         : images/team/Dr_Nikolaos_Dervilis.jpg
+  - image         : images/team/Dr_Nikolaos_Dervilis.jpg
     name          : Jonathon Eyre
     designation   : Research Assistant
     description   : >
       AMRC
     #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
- # - image         : images/team/Dr_Nikolaos_Dervilis.jpg
+  - image         : images/team/Dr_Nikolaos_Dervilis.jpg
     name          : Kevin Kerrigan
     designation   : Professor
     description   : >
       AMRC
-   # webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
-  #- image         : images/team/Dr_Nikolaos_Dervilis.jpg
+  - image         : images/team/Dr_Nikolaos_Dervilis.jpg
     name          : Sabino Ayvar-Soberanis
     designation   : Post doctoral research associate
     description   : >
       AMRC
-    #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
   - image         : images/team/James Law.jpg
     name          : James Law
@@ -77,36 +75,35 @@ member  :
       Department of Computer Science
     webURL        : https://www.sheffield.ac.uk/dcs/people/academic/john-clark
     
-    #  - image         : images/team/James Law.jpg
+  - image         : images/team/James Law.jpg
     name          : Wil Ward
     designation   : Post doctoral Research Associate
     description   : >
       Department of Civil Engineering
-    #webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
+    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
     
-      - image         : images/team/Martin Mayfield.jpg
+  - image         : images/team/Martin Mayfield.jpg
     name          : Martin Mayfield
     designation   : Professor
     description   : >
       Department of Civil Engineering
     webURL        : https://www.sheffield.ac.uk/civil/people/academic/martin-mayfield-tulip
     
-          - image         : images/team/02-11-DanielCoca.jpg
+    - image         : images/team/02-11-DanielCoca.jpg
     name          : Daniel Coca
     designation   : Professor
     description   : >
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/daniel-coca
     
-    
-          - image         : images/team/visarkan.jpg
+  - image         : images/team/visarkan.jpg
     name          : Visakan Kadirkamanathan
     designation   : Professor
     description   : >
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
     
-          - image         : images/team/KeithJackson.jpg
+    - image         : images/team/KeithJackson.jpg
     name          : Keith Jackson
     designation   : Professor
     description   : >
