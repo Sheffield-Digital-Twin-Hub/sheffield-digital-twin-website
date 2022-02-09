@@ -88,3 +88,26 @@ member  :
     description   : >
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
+
+    - image         : images/team/KeithJackson.jpg
+    name          : Keith Jackson
+    designation   : Professor
+    description   : >
+      ACSE
+    webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/keith-jackson
+
+    
+    - image         : images/team/02-11-DanielCoca.jpg
+    name          : Daniel Coca
+    designation   : Professor
+    description   : >
+      ACSE
+    webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/daniel-coca
+    
+    - image         : images/team/profile.jpg
+    name          : Wil Ward
+    designation   : Post doctoral Research Associate
+    description   : >
+      Department of Civil Engineering
+   #webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
+
