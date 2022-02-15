@@ -9,26 +9,26 @@ item      :
     description   : >
       DTHIVE will act as a regional hub within the planned ATI Centre of Excellence for Digital Twin Technology; it will be based on the existing Sheffield DT community of practice, across AMRC and the Faculty of Engineering. The project will make use of the Laboratory for Verification and Validation (LVV), funded by £11M from EPSRC, ERDF and University of Sheffield.
 
-  - image  : images/book.png
+  - image  : 
     title : Background
     description   : >
       The University of Sheffield was recently awarded £890k of grant funding by The Alan Turing Institute to support research into digital twins for high-value engineering applications. The project will be carried out by a team of researchers from the Advanced Manufacturing Research Centre and the Faculty of Engineering. The overall mission is to establish a centre of excellence for research into digital twins for high-value engineering applications. Digital twins are live digital couplings between virtual duplicates of real-world systems and the physical twin.  They are radically reshaping most aspects of modern technology from healthcare to manufacturing and are perceived as crucial to providing solutions to urgent societal issues such as climate change.
 
-  - image  : images/clipboard.png
+  - image  : 
     title : Goals
     description   : >
       1. To establish a centre of excellence for research in digital twins for high-value engineering applications, DTHIVE, with the initial objective of establishing the foundations of a time-evolving DT.  2. To bring together researchers from across disciplinary boundaries to drive forward the understanding, development, and integration of DT science and technology. 3. To provide a regional research hub that has important links with key UK industries such as aerospace, automotive, infrastructure and renewable energy, that will accelerate advancements in DT research into direct societal impact.
 
-  - image  : images/package.png
+  - image  : 
     title : Workpackage 1
     description   : >
       Aerospace DT. A fixed-wing (Hawk) and rotorcraft (Lynx) will be used as physical twins (PTs). We will build and commission tests to enable ground vibration tests (GVTs) of these PTs to be conducted via a DT test platform. The novel contribution is that the DT will be able to reflect how the operational conditions of the structure change between the test environment (GVT) and conditions in use (i.e. in flight). A key goal will be to establish and demonstrate methods for validation of the DTs, where comprehensive in-service testing is not possible. The testing will begin with single-shaker testing using commercial software (a traditional modal setup), progressing to testing which is linked to, and informed by, the digital twin model, including full multi-shaker tests. This will be one of the first demonstrations of a DT on such full-scale aerospace structures. 
 
-  - image  : images/package.png
+  - image  : 
     title : Workpackage 2
     description   : >
       Manufacturing processes. Part 2.1: Create a fully connected digital twin of the filament winder, oven & 5-axis CNC machine, along with near-full connectivity between the different manufacturing processes using the current backbone of AMRC's Factory+ specification. For the first time, this would enable prediction of condition of supply before the next manufacturing process begins & operational data to identify opportunities for future efficiency gains. Part 2.2: Chatter in the machining process leads to poor surface quality and results in tool damage. Existing monitoring methods can only detect severe chatter when poor surface quality and damage to the cutter have already happened. In this project, a machine learning-based model will be developed as a digital twin of the machining process, and be applied to marginal chatter detection. The model will be validated by machining trials.
-  - image  : images/package.png
+  - image  : #images/package.png
     title : Workpackage 3
     description   : >
      Energy Modelling Digital Twin: the UK government has committed to a heat pump system deployment rate of 600,000 per year by 2028. University of Sheffield has designed and prototyped a multispectral advanced research vehicle (MARVel): a van mounted mobile sensing rig that captures high volumes of street-level urban data. The new idea is to use hyperspectral data at different wavelengths to provide effective information for a wide range of applications that would not be possible with composite imagery alone. Information on material makeup can be used to build material stock models and to understand and infer characteristics when combined with other information, e.g. thermal radiation. 
