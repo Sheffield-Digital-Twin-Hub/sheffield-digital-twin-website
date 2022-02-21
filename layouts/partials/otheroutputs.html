@@ -1,0 +1,34 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+{{ with $data.otheroutputs }}
+    {{ if .enable }}
+    {{ "<!-- Papers Section Start -->" | safeHTML }}
+    <section class="service-list section bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="title text-center">
+                        {{ with .topTitle }}<h4>{{.}}</h4>{{ end }}
+                        {{ with .title }}<h2>{{.}}</h2><span class="border"></span>{{ end }}
+                        {{ with .subtitle }}<p>{{. | markdownify}}</p>{{ end }}
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                {{ range .outputs }}
+                <div class="col-md-6 mb-4">
+                    <div class="block-paper">
+                        <i class=".tf-ion-ios-book-outline"></i>
+                        {{ with .title }}<h3>{{.}}</h3>{{ end }}
+                        <ul>
+                            <li>{{ delimit .authors ", " " and "}}</li>
+                            <li>{{ .year }}</li>
+                            <li> <a href="{{.url}}">[URL]</a><a href="{{.pdf}}">[PDF]</a> </li>
+                        </ul>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+{{ end }}

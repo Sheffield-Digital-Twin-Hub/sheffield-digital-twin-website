@@ -117,8 +117,8 @@ weight  = 3
 #url     = "hive"
 #weight  = 2
 [[menu.nav]]
-name    = "papers"
-url     = "papers"
+name    = "outputs"
+url     = "outputs"
 weight  = 3
 [[menu.nav]]
 name    = "team"

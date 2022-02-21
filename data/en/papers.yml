@@ -1,7 +1,7 @@
 enable    : true
 topTitle  : OUTPUTS
-title     : Digital Twin Related Outputs
-subtitle  : Here are a selection of featured digital twin related outputs
+title     : Digital Twin Related Papers
+subtitle  : Here are a selection of featured digital twin related papers
 papers    :
   - title    : "Digital twins: State-of-the-art future directions for modelling and simulation in engineering dynamics applications."
     authors  :
@@ -50,43 +50,3 @@ papers    :
     issn     : 2296-9144  
     doi      : https://doi.org/10.3389/frobt.2021.758099    
     pdf      : https://www.frontiersin.org/articles/10.3389/frobt.2021.758099/full
-   
-  - title    : "AMRC Report: Untangling the Requirements of a digital twin."
-    authors  :
-      - Jonathan Eyre
-      - Sam Hyde
-      - Daniel Walker
-      - Seun Ojo
-      - Oliver Hayes
-      - Robin Hartley
-      - Rab Scott 
-      - Jonathan Bray
-    journal  : 
-    year     : 2020
-    volume   : 
-    pages    : 
-    issn     : 
-    doi      : https://www.amrc.co.uk/pages/digital-twin-report
-    pdf      : https://www.amrc.co.uk/files/document/406/1605271035_1604658922_AMRC_Digital_Twin_AW.pdf
-
-  - title    : "Data-centric engineering The Alan Turing Institute"
-    authors  :
-      - Alan Turing Institute
-    journal  : Data-centric engineering (DCE) community newsletter 
-    year     : 
-    volume   : 
-    pages    : 
-    issn     : 
-    doi      : https://www.turing.ac.uk/research/research-programmes/data-centric-engineering
-    pdf      : 
-
-  - title    : "Sheffield Robotics"
-    authors  :
-      - CSI Cobot Confident Safety Integration for Collaborative Robots
-    journal  :  
-    year     : 
-    volume   : 
-    pages    : 
-    issn     : 
-    doi      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
-    pdf      : 

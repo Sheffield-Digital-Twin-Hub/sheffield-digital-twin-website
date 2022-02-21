@@ -2,8 +2,8 @@
 other = "About"
 [projects]
 other = "Projects"
-[papers]
-other = "Papers"
+[outputs]
+other = "Outputs"
 [service]
 other = "Service"
 [portfolio]
