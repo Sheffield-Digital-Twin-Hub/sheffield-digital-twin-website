@@ -18,7 +18,7 @@ member  :
       Department of Computer Science
     webURL        : https://www.sheffield.ac.uk/dcs/people/academic/john-clark
     
-   - image         : images/team/02-11-DanielCoca.jpg
+  - image         : images/team/02-11-DanielCoca.jpg
     name          : Daniel Coca
     designation   : Professor
     description   : >
@@ -44,7 +44,7 @@ member  :
     designation   : Research Assistant
     description   : >
       AMRC
-    #webURL        : https://www.sheffield.ac.uk
+    #webURL       : https://www.sheffield.ac.uk
 
   - image         : images/team/KeithJackson.jpg
     name          : Keith Jackson
@@ -65,7 +65,7 @@ member  :
     designation   : Professor
     description   : >
       AMRC
-   # webURL        : https://www.sheffield.ac.uk/
+   # webURL       : https://www.sheffield.ac.uk/
     
   - image         : images/team/Law.JPG
     name          : James Law
