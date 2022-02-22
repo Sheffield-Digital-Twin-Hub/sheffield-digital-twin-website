@@ -27,10 +27,4 @@ outputs   :
   - title    : "Sheffield Robotics"
     authors  :
       - CSI Cobot Confident Safety Integration for Collaborative Robots
-    journal  :  
-    year     : 
-    volume   : 
-    pages    : 
-    issn     : 
-    doi      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
-    pdf      : 
+    url      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot

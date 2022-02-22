@@ -22,7 +22,10 @@
                         <ul>
                             <li>{{ delimit .authors ", " " and "}}</li>
                             <li>{{ .year }}</li>
-                            <li> <a href="{{.url}}">[URL]</a><a href="{{.pdf}}">[PDF]</a> </li>
+                            <li> 
+                                {{ if .url }}<a href="{{.url}}">[URL]</a> {{ end }}
+                                {{ if .pdf }}<a href="{{.pdf}}">[PDF]</a> {{ end }}
+                            </li>
                         </ul>
                     </div>
                 </div>

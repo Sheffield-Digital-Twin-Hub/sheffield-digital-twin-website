@@ -22,7 +22,10 @@
                         <ul>
                             <li>{{ delimit .authors ", " " and "}}</li>
                             <li>{{ .year }} <em>{{ .journal }}</em> {{ .volume }} {{ .pages }}</li>
-                            <li> <a href="{{.doi}}">[DOI]</a> <a href="{{.pdf}}">[PDF]</a> </li>
+                            <li> 
+                                {{ if .doi }} <a href="{{.doi}}">[DOI]</a> {{ end }}
+                                {{ if .pdf }} <a href="{{.pdf}}">[PDF]</a> {{ end }}
+                            </li>
                         </ul>
                     </div>
                 </div>
