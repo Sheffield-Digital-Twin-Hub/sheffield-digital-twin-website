@@ -63,10 +63,10 @@ member  :
     
   - image         : images/team/James Law.jpg
     name          : James Law
-    designation   : Professor
+    designation   : Senior Innovation Fellow
     description   : >
-      Department of Computer Science
-    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
+      Department of Computer Science and the Integrated Manufacturing Group (AMRC)
+    webURL        : https://jlaw.staff.shef.ac.uk
 
   - image         : images/team/John-Clark.jpg
     name          : John Clark
