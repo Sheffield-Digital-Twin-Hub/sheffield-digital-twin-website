@@ -4,7 +4,7 @@ title   : Our Team.
 subtitle: Bringing together real-world industry challenges and academic curiosity through collaboration.
 
 member  :  
-  - image         : images/team/profile.jpg
+  - image         : images/team/profile.png
     name          : Sabino Ayvar-Soberanis
     designation   : Post doctoral research associate
     description   : >
@@ -39,7 +39,7 @@ member  :
       Department of Mechanical Engineering
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
-  - image         : images/team/profile.jpg
+  - image         : images/team/profile.png
     name          : Jonathon Eyre
     designation   : Research Assistant
     description   : >
@@ -60,7 +60,7 @@ member  :
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
     
-  - image         : images/team/profile.jpg
+  - image         : images/team/profile.png
     name          : Kevin Kerrigan
     designation   : Professor
     description   : >
@@ -96,14 +96,14 @@ member  :
     # twitterURL    : https://twitter.com/@TheAMRC
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/david-wagg
 
-  - image         : images/team/profile.jpg
+  - image         : images/team/profile.png
     name          : Wil Ward
     designation   : Post doctoral Research Associate
     description   : >
       Department of Civil Engineering
     #webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
 
-  - image         : images/team/worden.jpg
+  - image         : images/team/worden2.jpg
     name          : Keith Worden
     designation   : Professor
     description   : >
