@@ -4,7 +4,7 @@ title     : Our Projects.
 subtitle  : At the [University of Sheffield](https://sheffield.ac.uk) we are seeing first hand the urgent need to respond to research challenges that have an important societal impact. We believe that digital twin technology will have a significant impact on these societal challenges for the UK and wider world.
 item      :
   - icon  : tf-ion-ios-analytics-outline
-    title : Dynamics
+    title : Dynamics and Control
     list  :
       - name : "[Digitwin: Digital Twins for Improved Dynamic Design](https://digitwin.ac.uk/)"
       - name : "[DTHIVE: Digital Twins for High-value Engineering Applications](/hive)"
@@ -12,7 +12,7 @@ item      :
 
 
   - icon  : tf-ion-android-sync
-    title : Control
+    title : Civil engineering and Infrastructure
     list  :
       - name : "[DAFNI Data & Analytics Facility for National Infrastructure to Advance UK Infrastructure Research](https://dafni.ac.uk/)"
       - name : "[URBAN FLOWS OBSERVATORY](https://urbanflows.ac.uk/)"
@@ -21,3 +21,8 @@ item      :
     title : Manufacturing
     list  :
       - name : "[AMRC: Advanced Manufacturing Research Centre](https://www.amrc.co.uk/)"
+
+  - icon  : tf-ion-ios-cog-outline
+    title : Computer Science and Robotics
+    list  :
+      - name : "[CSI Cobot](https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot/)"

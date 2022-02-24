@@ -3,29 +3,28 @@ topTitle: TEAM MEMBERS
 title   : Our Team.
 subtitle: Bringing together real-world industry challenges and academic curiosity through collaboration.
 
-member  :
-  - image         : images/team/dwagg.jpg
-    name          : David Wagg
+member  :  
+  - image         : images/team/profile.png
+    name          : Sabino Ayvar-Soberanis
+    designation   : Post doctoral research associate
+    description   : >
+      AMRC
+    #webURL        : https://www.sheffield.ac.uk
+
+  - image         : images/team/John-Clark.jpg
+    name          : John Clark
     designation   : Professor
     description   : >
-      Department of Mechanical Engineering
-    # twitterURL    : https://twitter.com/@TheAMRC
-    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/david-wagg
-
-  - image         : images/team/trogers.jpg
-    name          : Timothy Rogers
-    designation   : Lecturer
-    description   : >
-      Department of Mechanical Engineering
-    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/timothy-rogers
-
-  - image         : images/team/worden.jpg
-    name          : Keith Worden
+      Department of Computer Science
+    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/john-clark
+    
+  - image         : images/team/02-11-DanielCoca.jpg
+    name          : Daniel Coca
     designation   : Professor
     description   : >
-      Department of Mechanical Engineering
-    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/keith-worden
-
+      ACSE
+    webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/daniel-coca
+    
   - image         : images/team/Lizzy_Cross.jpg
     name          : Lizzy Cross
     designation   : Professor
@@ -40,47 +39,19 @@ member  :
       Department of Mechanical Engineering
     webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
     
-  - image         : images/team/profile.jpg
+  - image         : images/team/profile.png
     name          : Jonathon Eyre
     designation   : Research Assistant
     description   : >
       AMRC
-    #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
+    #webURL       : https://www.sheffield.ac.uk
 
-  - image         : images/team/profile.jpg
-    name          : Kevin Kerrigan
+  - image         : images/team/KeithJackson.jpg
+    name          : Keith Jackson
     designation   : Professor
     description   : >
-      AMRC
-   # webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
-    
-  - image         : images/team/profile.jpg
-    name          : Sabino Ayvar-Soberanis
-    designation   : Post doctoral research associate
-    description   : >
-      AMRC
-    #webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/nikolaos-dervilis
-    
-  - image         : images/team/James Law.jpg
-    name          : James Law
-    designation   : Professor
-    description   : >
-      Department of Computer Science
-    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/james-law
-
-  - image         : images/team/John-Clark.jpg
-    name          : John Clark
-    designation   : Professor
-    description   : >
-      Department of Computer Science
-    webURL        : https://www.sheffield.ac.uk/dcs/people/academic/john-clark
- 
-  - image         : images/team/Martin Mayfield.jpg
-    name          : Martin Mayfield
-    designation   : Professor
-    description   : >
-      Department of Civil Engineering
-    webURL        : https://www.sheffield.ac.uk/civil/people/academic/martin-mayfield-tulip
+      ACSE
+    webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/keith-jackson
 
   - image         : images/team/visarkan.jpg
     name          : Visakan Kadirkamanathan
@@ -88,24 +59,54 @@ member  :
     description   : >
       ACSE
     webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
+    
+  - image         : images/team/profile.png
+    name          : Kevin Kerrigan
+    designation   : Professor
+    description   : >
+      AMRC
+   # webURL       : https://www.sheffield.ac.uk/
+    
+  - image         : images/team/Law.JPG
+    name          : James Law
+    designation   : Senior Innovation Fellow
+    description   : >
+      Department of Computer Science and the Integrated Manufacturing Group (AMRC)
+    webURL        : https://jlaw.staff.shef.ac.uk
 
-  - image         : images/team/profile.jpg
+  - image         : images/team/Martin Mayfield.jpg
+    name          : Martin Mayfield
+    designation   : Professor
+    description   : >
+      Department of Civil Engineering
+    webURL        : https://www.sheffield.ac.uk/civil/people/academic/martin-mayfield-tulip
+    
+  - image         : images/team/trogers.jpg
+    name          : Timothy Rogers
+    designation   : Lecturer
+    description   : >
+      Department of Mechanical Engineering
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/timothy-rogers
+    
+  - image         : images/team/dwagg.jpg
+    name          : David Wagg
+    designation   : Professor
+    description   : >
+      Department of Mechanical Engineering
+    # twitterURL    : https://twitter.com/@TheAMRC
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/david-wagg
+
+  - image         : images/team/profile.png
     name          : Wil Ward
     designation   : Post doctoral Research Associate
     description   : >
       Department of Civil Engineering
     #webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/visakan-kadirkamanathan
-    
-  - image         : images/team/02-11-DanielCoca.jpg
-    name          : Daniel Coca
+
+  - image         : images/team/worden2.jpg
+    name          : Keith Worden
     designation   : Professor
     description   : >
-      ACSE
-    webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/daniel-coca
-    
-  - image         : images/team/KeithJackson.jpg
-    name          : Keith Jackson
-    designation   : Professor
-    description   : >
-      ACSE
-    webURL        : https://www.sheffield.ac.uk/acse/department/people/academic/keith-jackson
+      Department of Mechanical Engineering
+    webURL        : https://www.sheffield.ac.uk/mecheng/people/academic/keith-worden
+
