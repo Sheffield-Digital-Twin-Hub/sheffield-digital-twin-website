@@ -33,13 +33,3 @@ item      :
     title : Workpackage 3
     description   : >
      Energy Modelling Digital Twin: the UK government has committed to a heat pump system deployment rate of 600,000 per year by 2028. University of Sheffield has designed and prototyped a multispectral advanced research vehicle (MARVel): a van mounted mobile sensing rig that captures high volumes of street-level urban data. The new idea is to use hyperspectral data at different wavelengths to provide effective information for a wide range of applications that would not be possible with composite imagery alone. Information on material makeup can be used to build material stock models and to understand and infer characteristics when combined with other information, e.g. thermal radiation. 
- 
-# - image  : 
-#    title : Workpackage 4
-#    description   : >
-#     Control and Computing 
-#     
-#- image  : 
-#    title : Workpackage 5
- #   description   : >
- #    Safety and Security 
