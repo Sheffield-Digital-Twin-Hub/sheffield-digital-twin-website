@@ -22,7 +22,6 @@ outputs   :
       - Alan Turing Institute
     journal  : Data-centric engineering (DCE) community newsletter 
     url      : https://www.turing.ac.uk/research/research-programmes/data-centric-engineering
-   # url      : https://www.turing.ac.uk/research/research-projects/digital-twins-high-value-engineering-applications-dthive
 
 
   - title    : "Sheffield Robotics"
