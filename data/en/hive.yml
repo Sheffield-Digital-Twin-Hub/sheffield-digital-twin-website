@@ -14,10 +14,10 @@ item      :
     description   : >
       The University of Sheffield was recently awarded £890k of grant funding by The Alan Turing Institute to support research into digital twins for high-value engineering applications. The project will be carried out by a team of researchers from the Advanced Manufacturing Research Centre and the Faculty of Engineering. The overall mission is to establish a centre of excellence for research into digital twins for high-value engineering applications. Digital twins are live digital couplings between virtual duplicates of real-world systems and the physical twin.  They are radically reshaping most aspects of modern technology from healthcare to manufacturing and are perceived as crucial to providing solutions to urgent societal issues such as climate change.
 
-#  - image  : 
-#    title : Goals
-#    description   : >
-#      1. To establish a centre of excellence for research in digital twins for high-value engineering applications, DTHIVE, with the initial objective of establishing the foundations of a time-evolving DT.  2. To bring together researchers from across disciplinary boundaries to drive forward the understanding, development, and integration of DT science and technology. 3. To provide a regional research hub that has important links with key UK industries such as aerospace, automotive, infrastructure and renewable energy, that will accelerate advancements in DT research into direct societal impact.
+  - image  : 
+    title : Goals
+    description   : >
+      1. To establish a centre of excellence for research in digital twins for high-value engineering applications, DTHIVE, with the initial objective of establishing the foundations of a time-evolving DT.  2. To bring together researchers from across disciplinary boundaries to drive forward the understanding, development, and integration of DT science and technology. 3. To provide a regional research hub that has important links with key UK industries such as aerospace, automotive, infrastructure and renewable energy, that will accelerate advancements in DT research into direct societal impact.
 
   - image  : 
     title : Workpackage 1
