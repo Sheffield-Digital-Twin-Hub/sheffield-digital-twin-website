@@ -3,7 +3,6 @@ topTitle  : DTHIVE
 title     : Digital twins for high-value engineering applications.
 subtitle  : DTHIVE is funded by The Alan Turing Institute. The lead is Professor David Wagg, Professor of Nonlinear Dynamics, Department of Mechanical Engineering, University of Sheffield. The Advanced Manufacturing Research Centre (AMRC) is also a contributor.
 item      :
-
   - image  : 
     title : Aim
     description   : >
@@ -16,8 +15,10 @@ item      :
 
   - image  : 
     title : Goals
-    description   : >
-      1. To establish a centre of excellence for research in digital twins for high-value engineering applications, DTHIVE, with the initial objective of establishing the foundations of a time-evolving DT.  2. To bring together researchers from across disciplinary boundaries to drive forward the understanding, development, and integration of DT science and technology. 3. To provide a regional research hub that has important links with key UK industries such as aerospace, automotive, infrastructure and renewable energy, that will accelerate advancements in DT research into direct societal impact.
+    description   : |
+      1. To establish a centre of excellence for research in digital twins for high-value engineering applications, DTHIVE, with the initial objective of establishing the foundations of a time-evolving DT.
+      2. To bring together researchers from across disciplinary boundaries to drive forward the understanding, - development, and integration of DT science and technology.
+      3. To provide a regional research hub that has important links with key UK industries such as aerospace, automotive, infrastructure and renewable energy, that will accelerate advancements in DT research into direct societal impact.
 
   - image  : 
     title : Workpackage 1
@@ -29,7 +30,10 @@ item      :
     description   : >
       Manufacturing processes. Part 2.1: Create a fully connected digital twin of the filament winder, oven & 5-axis CNC machine, along with near-full connectivity between the different manufacturing processes using the current backbone of AMRC's Factory+ specification. For the first time, this would enable prediction of condition of supply before the next manufacturing process begins & operational data to identify opportunities for future efficiency gains. Part 2.2: Chatter in the machining process leads to poor surface quality and results in tool damage. Existing monitoring methods can only detect severe chatter when poor surface quality and damage to the cutter have already happened. In this project, a machine learning-based model will be developed as a digital twin of the machining process, and be applied to marginal chatter detection. The model will be validated by machining trials.
  
- - image  : 
+
+  - image :
     title : Workpackage 3
-    description   : >
-     Energy Modelling Digital Twin: the UK government has committed to a heat pump system deployment rate of 600,000 per year by 2028. University of Sheffield has designed and prototyped a multispectral advanced research vehicle (MARVel): a van mounted mobile sensing rig that captures high volumes of street-level urban data. The new idea is to use hyperspectral data at different wavelengths to provide effective information for a wide range of applications that would not be possible with composite imagery alone. Information on material makeup can be used to build material stock models and to understand and infer characteristics when combined with other information, e.g. thermal radiation. 
+    description : >
+      Energy Modelling Digital Twin: the UK government has has committed to a heat pump system deployment rate of 600,000 per year by 2028. University of Sheffield has designed and prototyped a multispectral advanced research vehicle (MARVel): a van mounted mobile sensing rig that captures high volumes of street-level urban data. The new idea is to use hyperspectral data at different wavelengths to provide effective information for a wide range of applications that would not be possible with composite imagery alone. Information on material makeup can be used to build material stock models and to understand and infer characteristics when combined with other information, e.g. thermal radiation.
+
+
