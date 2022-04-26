@@ -3,21 +3,7 @@ topTitle  : OUTPUTS
 title     : Digital Twin Related Papers
 subtitle  : Here are a selection of featured digital twin related papers
 papers    :
-    - title    : "On Digital Twins, Mirrors, and Virtualizations: Frameworks for Model Verification and Validation."
-    authors  :
-      - Worden, K.
-      - Cross, R.J.
-      - Barthorpe, R.J.
-      - Wagg, D.J.
-      - Gardner, P.A.
-    journal  : ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B. Mechanical Engineering
-    year     : 2020
-    volume   : 6(3)
-    pages    : 030902
-    issn     : 2332-9017
-    doi      : https://doi.org/10.1115/1.4046740
-    pdf      : https://asmedigitalcollection.asme.org/risk/article-abstract/6/3/030902/1082000/On-Digital-Twins-Mirrors-and-Virtualizations?redirectedFrom=fulltext
-    
+   
     - title    : "Digital twins: State-of-the-art future directions for modelling and simulation in engineering dynamics applications."
     authors  :
       - Wagg, D.
