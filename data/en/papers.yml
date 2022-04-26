@@ -2,7 +2,6 @@ enable    : true
 topTitle  : OUTPUTS
 title     : Digital Twin Related Papers
 subtitle  : Here are a selection of featured digital twin related papers
-
 papers    :
  - title    : "Machining Digital Twin using real-time model-based simulations and lookahead function for closed loop machining control."
     authors  :
