@@ -3,16 +3,6 @@ topTitle  : OUTPUTS
 title     : Digital Twin Related Papers
 subtitle  : Here are a selection of featured digital twin related papers
 papers    :
-- title    : "Machining Digital Twin using real-time model-based simulations and lookahead function for closed loop machining control."
-    authors  :
-      - Wagg, D.
-    journal  : ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B. Mechanical Engineering
-    year     : 2020
-    volume   : 6(3)
-    pages    : 030901
-    issn     : 2332-9017
-    doi      : https://doi.org/10.1115/1.4046739
-    pdf      : https://eprints.whiterose.ac.uk/158771/8/RISK-19-1039%20with%20cover%20form.pdf
 
  - title    : "Machining Digital Twin using real-time model-based simulations and lookahead function for closed loop machining control."
     authors  :
