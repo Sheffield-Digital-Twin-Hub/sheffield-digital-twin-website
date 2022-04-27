@@ -43,5 +43,10 @@ outputs   :
 
   - title    : "Dataset: Human-Robot Video Data from a Manufacturing Factory"
     authors  :
-      - Department of Computer Science
+      - Department of Computer Science. •	This dataset, collected from an industrial partner, includes videos from a collaborative robotic manufacturing process (including normal working operations, participation of multiple operators, and potentially risky human-robot interactions). The videos can be used for reproducible research - particularly for image classification, segmentation, monitoring and decision making within digital twins and for automated safety analysis.
     url      : https://figshare.com/s/d8b5d1c2b382e4677e23
+
+  - title    : "Annotation tool"
+    authors  :
+      - Department of Computer Science. This semi-automated annotation tool, integrated with deep learning, has been developed to support labelling of video and image data (and specifically for the above dataset).
+    url      : https://github.com/wongsinglam/semi_labelme
