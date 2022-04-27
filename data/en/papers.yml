@@ -3,23 +3,7 @@ topTitle  : OUTPUTS
 title     : Digital Twin Related Papers
 subtitle  : Here are a selection of featured digital twin related papers
 papers    :
- - title    : "Machining Digital Twin using real-time model-based simulations and lookahead function for closed loop machining control."
-    authors  :
-      - Rob Ward
-      - Chao Sun 
-      - Javier Dominguez-Caballero 
-      - Seun Ojo  
-      - Sabino Ayvar-Soberanis 
-      - David Curtis    
-      - Erdem Ozturk 
-    journal  : The International Journal of Advanced Manufacturing Technology
-    year     : 2021
-    volume   : 117
-    pages    : 3615-3629
-    issn     : 
-    doi      : https://doi.org/10.1007/s00170-021-07867-w
-    pdf      : https://link.springer.com/content/pdf/10.1007/s00170-021-07867-w.pdf
-   
+
   - title    : "A Modular Digital Twinning Framework for Safety Assurance of Collaborative Robotics."
     authors  :
       - J.A. Douthwaite
