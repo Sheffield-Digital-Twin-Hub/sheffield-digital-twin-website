@@ -41,7 +41,7 @@ outputs   :
       - CSI Cobot Confident Safety Integration for Collaborative Robots
     url      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
 
-  - title    : "Dataset"
+  - title    : "Dataset: Human-Robot Video Data from a Manufacturing Factory"
     authors  :
-      - CSI Cobot Confident Safety Integration for Collaborative Robots
-    url      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
+      - Department of Computer Science
+    url      : https://figshare.com/s/d8b5d1c2b382e4677e23
