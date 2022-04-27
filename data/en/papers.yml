@@ -51,3 +51,19 @@ papers    :
     issn     : 2332-9017
     doi      : https://doi.org/10.1115/1.4046739    
     pdf      : https://eprints.whiterose.ac.uk/158771/8/RISK-19-1039%20with%20cover%20form.pdf
+
+  - title    : "Towards the Development of an Operational Digital Twin."
+    authors  :
+      - Paul Gardner
+      - Mattia Dal Borgo
+      - Valentina Ruffini
+      - Aidan J. Hughes
+      - Yichen Zhu
+      - David J. Wagg
+    journal  : Vibration
+    year     : 2020
+    volume   : 3(3)
+    pages    : 235
+    issn     : 
+    doi      : https://doi.org/10.3390/vibration3030018   
+    pdf      : https://www.mdpi.com/2571-631X/3/3/18
