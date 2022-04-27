@@ -52,6 +52,6 @@ outputs   :
     url      : https://github.com/wongsinglam/semi_labelme
 
   - title    : "Using Digital Twins to ensure safety in manufacturing"
-    authors  : 
-      - Jonathan Aitken Department of Automatic Control and System Engineering. 
-      url      : https://www.sheffield.ac.uk/engineering/news/using-digital-twins-ensure-safety-manufacturing
+    authors  :
+      - Jonathan Aitken, Department of Automatic Control and System Engineering 
+    url      : https://www.sheffield.ac.uk/engineering/news/using-digital-twins-ensure-safety-manufacturing
