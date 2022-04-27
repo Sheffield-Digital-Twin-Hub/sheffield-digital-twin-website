@@ -23,12 +23,20 @@ outputs   :
     journal  : Data-centric engineering (DCE) community newsletter 
     url      : https://www.turing.ac.uk/research/research-projects/digital-twins-high-value-engineering-applications-dthive
 
-  - title    : "Sheffield Robotics"
+  - title    : "A Modular Digital Twinning Framework for Safety Assurance of Collaborative Robotics"
     authors  :
-      - CSI Cobot Confident Safety Integration for Collaborative Robots
-    url      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
-
-  - title    : "Sheffield Robotics"
+      - J.A. Douthwaite 
+      - B. Lesage 
+      - M. Gleirscher 
+      - R. Calinescu 
+      - J. M. Aitken 
+      - R. Alexander 
+      - J. Law
+    url      : https://doi.org/10.3389/frobt.2021.758099
+    journal  : Frontiers in Robotics and AI
+    year     : 2021
+    
+  - title    : "Sheffield Robotics "
     authors  :
       - CSI Cobot Confident Safety Integration for Collaborative Robots
     url      : https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot
