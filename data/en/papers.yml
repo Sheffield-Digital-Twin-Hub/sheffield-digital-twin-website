@@ -20,3 +20,21 @@ papers    :
     issn     : 2296-9144  
     doi      : https://doi.org/10.3389/frobt.2021.758099    
     pdf      : https://www.frontiersin.org/articles/10.3389/frobt.2021.758099/full
+
+ - title    : "Machining Digital Twin using real-time model-based simulations and lookahead function for closed loop machining control."
+    authors  :
+      - Rob Ward
+      - Chao Sun 
+      - Javier Dominguez-Caballero 
+      - Seun Ojo  
+      - Sabino Ayvar-Soberanis 
+      - David Curtis    
+      - Erdem Ozturk 
+    journal  : The International Journal of Advanced Manufacturing Technology
+    year     : 2021
+    volume   : 117
+    pages    : 3615-3629
+    issn     : 
+    doi      : https://doi.org/10.1007/s00170-021-07867-w
+    pdf      : https://link.springer.com/content/pdf/10.1007/s00170-021-07867-w.pdf
+   
