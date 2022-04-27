@@ -85,3 +85,18 @@ papers    :
     doi      : https://doi.org/10.1017/dce.2022.1   
     pdf      : https://www.cambridge.org/core/journals/data-centric-engineering/article/development-of-a-digital-twin-operational-platform-using-python-flask/C138956055FE433E7EEB693777B0F339
     
+  - title    : "A transfer learning-based digital twin for detecting localised torsional friction in deviated wells."
+    authors  :
+      - T.G.Rittoa
+      - K.Worden
+      - D.J.Wagg
+      - F.A.Rochinha
+      - P.Gardner 
+    journal  : Mechanical Systems and Signal Processing
+    year     : 2022
+    volume   : 173
+    pages    : 
+    issn     : 
+    doi      : https://doi.org/10.1016/j.ymssp.2022.109000   
+    pdf      : https://www.sciencedirect.com/science/article/pii/S0888327022001789?casa_token=1XxepPx9PaAAAAAA:RmpOvrnGP4cKAjOgcVvHgXeVLff9CLdGoVyyXXAJARhU1sFh2uNVnnvKEOER97LKn4tzphx4ak8
+    
