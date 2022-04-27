@@ -67,3 +67,21 @@ papers    :
     issn     : 
     doi      : https://doi.org/10.3390/vibration3030018   
     pdf      : https://www.mdpi.com/2571-631X/3/3/18
+
+  - title    : "Development of a digital twin operational platform using Python Flask."
+    authors  :
+      - Matthew S. Bonney
+      - Marco de Angelis
+      - Mattia Dal Borgo
+      - Luis Andrade
+      - Sandor Beregi
+      - Nidhal Jamia
+      - David J. Wagg 
+    journal  : Data-Centric Engineering
+    year     : 2022
+    volume   : 3
+    pages    : 
+    issn     : 
+    doi      : https://doi.org/10.1017/dce.2022.1   
+    pdf      : https://www.cambridge.org/core/journals/data-centric-engineering/article/development-of-a-digital-twin-operational-platform-using-python-flask/C138956055FE433E7EEB693777B0F339
+    
