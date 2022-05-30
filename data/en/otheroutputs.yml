@@ -14,7 +14,8 @@ outputs   :
       - Rab Scott 
       - Jonathan Bray
     year     : 2020
-    url      : https://www.amrc.co.uk/pages/digital-twin-report
+    url      : https://www.amrc.co.uk/pages/digital-twin-report 
+    DOI      : http://dx.doi.org/10.13140/RG.2.2.28776.96001
     pdf      : https://www.amrc.co.uk/files/document/406/1605271035_1604658922_AMRC_Digital_Twin_AW.pdf
 
   - title    : "Data-centric engineering The Alan Turing Institute"
