@@ -23,6 +23,12 @@ item      :
       - name : "[AMRC: Advanced Manufacturing Research Centre](https://www.amrc.co.uk/)"
 
   - icon  : tf-ion-ios-cog-outline
+    title : Manufacturing
+    list  :
+      - name : "[Factory+: Open framework to standardise data extraction and consumption across a manufacturing organisation](https://factoryplus.app.amrc.co.uk/)"
+
+
+  - icon  : tf-ion-ios-cog-outline
     title : Computer Science and Robotics
     list  :
       - name : "[CSI Cobot](https://www.sheffield.ac.uk/sheffieldrobotics/about/csi-cobot/)"
